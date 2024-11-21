@@ -1,0 +1,8 @@
+ccDisp474	KEYWORD1
+loopDisp	KEYWORD2
+display	KEYWORD2
+loopKeyScan	KEYWORD2
+getPbRising	KEYWORD2
+getPbFalling	KEYWORD2
+setRefreshTime	KEYWORD2
+setKeyScanTime	KEYWORD2
